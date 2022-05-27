@@ -1,3 +1,4 @@
+//Write a C program to check weather a number is even or odd by if-else.
 #include <stdio.h>
 int main()
 {
